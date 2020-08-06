@@ -1,0 +1,20 @@
+
+page{
+		background-color: #FFFFFF;
+}
+.success_ceter{
+	width: 90%;
+	margin: 0 auto;
+}
+.success_ceter text{
+		font-size: 36rpx;
+		color: #333333;
+		line-height: 80rpx;
+		padding: 40rpx 0;
+}
+.success_ceter{
+		font-size: 28rpx;
+		color: #333333;
+		line-height: 50rpx;
+}
+

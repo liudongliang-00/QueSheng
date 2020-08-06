@@ -1,0 +1,42 @@
+
+.my_num{
+		text-align: center;
+		font-size: 28rpx;
+		line-height: 80rpx;
+		color: #999999;
+}
+.news{
+		width: 90%;
+		margin: 0 auto;
+		background-color: #FFFFFF;
+		-webkit-border-radius: 20rpx;
+		        border-radius: 20rpx;
+}
+.news_tltl{
+		font-size:32rpx;
+		color: #333333;
+		padding: 0 20rpx;
+		line-height: 80rpx;
+}
+.new_cetne{
+		display: block;
+		width: 94%;
+		padding: 0 20rpx;
+		font-size: 24rpx;
+		color: #999999;
+		line-height: 32rpx;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+}
+.news_footer{
+	text-align: center;
+	font-size: 28rpx;
+	color: #485AEA;
+	line-height: 80rpx;
+}
+.news_he{
+	border-bottom: 2rpx solid #E8E8E8;
+	margin-top: 30rpx;
+}
+

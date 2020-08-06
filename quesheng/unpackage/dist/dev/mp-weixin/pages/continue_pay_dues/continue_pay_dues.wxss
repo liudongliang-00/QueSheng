@@ -1,0 +1,100 @@
+
+.make_room{
+  margin-top: 20rpx;	
+  background-color: #FFFFFF;
+}
+image{
+	width: 100%;
+	height: 100%;
+}
+.make_title{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	border-bottom: 2rpx solid #E8E8E8;
+	line-height: 80rpx;
+	font-size: 32rpx;
+	color: #333333;
+}
+.make_center{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+     width: 90%;
+	 margin: 0 auto;
+}
+.make_img{
+	width: 130rpx;
+	height: 130rpx;
+	margin: 30rpx 20rpx 30rpx 0;
+}
+.make_huose{
+	width: 75%;
+	margin-top: 26rpx;
+}
+.huous_hao{
+	font-size: 28rpx;
+	color: #333333;
+	line-height: 46rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.huous_hao text:last-child{
+	display: block;
+	width: 80%;
+	margin-left: 30rpx;
+	overflow:hidden; /*超出的文本隐藏
+ */
+	text-overflow:ellipsis; /*溢出用省略号显示
+ */
+	white-space:nowrap; /*溢出不换行
+ */
+}
+.huous_title{
+	color: #485AEA;
+}
+.make_footer{
+	background-color: #FFFFFF;
+	margin-top: 20rpx;
+}
+.footer_center{
+	width: 90%;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 30rpx;
+	color: #333333;
+	line-height: 80rpx;
+	border-bottom: 2rpx solid #E8E8E8;
+}
+.footer_center:last-child{
+	border-bottom: none;
+}
+.jiaqian{
+	color: #F03232;
+}
+.footer_input{
+	width: 200rpx;
+	height:100rpx;
+}
+.footer_input input{
+	width: 200rpx;
+	height: 100%;
+	text-align: right;
+}
+.make_zhifu{
+	position: fixed;
+	bottom: 0;
+	background-color: #485AEA;
+	width: 100%;
+	text-align: center;
+    line-height: 100rpx;
+	font-size: 36rpx;
+	color: #FFFFFF;
+}
+

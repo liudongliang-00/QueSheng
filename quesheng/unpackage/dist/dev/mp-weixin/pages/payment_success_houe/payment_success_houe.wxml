@@ -1,0 +1,1 @@
+<view><view class="success_img"><image src="../../static/img/chenggong.png" mode="aspectFill"></image></view><view class="success_ceter"><text class="success_ceter_title">退房成功</text><text class="success_ceter_footer">感谢光临，祝您生活愉快！</text></view></view>

@@ -1,0 +1,1 @@
+<view><view class="logo_img"><image src="../../static/img/logo.png" mode="aspectFill"></image></view><view class="logo_wx"><view class="wx_img"></view><button class="btn" open-type="getPhoneNumber" data-event-opts="{{[['getphonenumber',[['decryptPhoneNumber',['$event']]]]]}}" bindgetphonenumber="__e">获取手机号</button></view></view>

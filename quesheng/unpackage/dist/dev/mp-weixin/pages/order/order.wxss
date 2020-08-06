@@ -1,0 +1,120 @@
+
+.tabber_title{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+	 width: 100%;	
+	 background-color: #FFFFFF;
+}
+.kaisuo{
+		background-color: #3A4FF5;
+		color: #FFFFFF !important;
+		border: none !important;
+}
+.tabber_title text{
+		display: block;
+	    width: 50%;
+		text-align: center;
+		line-height: 100rpx;
+		border-bottom: 2rpx solid #E8E8E8;
+		font-size: 32rpx;
+		color: #666666;
+}
+.room_coom{
+		color: #333333 !important;
+		border-bottom: 2rpx solid #3A4FF5 !important;
+}
+.make_room{	
+	  background-color: #FFFFFF;
+	  width: 690rpx;
+	  margin: 20rpx auto 0;
+	  -webkit-border-radius: 20rpx;
+	          border-radius: 20rpx;
+}
+.make_title{
+		display: block;
+		width: 630rpx;
+		margin: 0 auto;
+		border-bottom: 2rpx solid #E8E8E8;
+		line-height: 80rpx;
+		font-size: 32rpx;
+		color: #333333;
+}
+.make_rooms{
+		background-color: #FFFFFF;
+		width:690rpx;
+		margin: 20rpx auto 0;
+		-webkit-border-radius: 20rpx;
+		        border-radius: 20rpx;
+}
+.make_center{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+	     width: 630rpx;
+		 margin: 0 auto ;
+		 border-bottom: 2rpx solid #E8E8E8;
+		 padding: 0 0 20rpx 0;
+}
+.make_img{
+		width: 130rpx;
+		height: 130rpx;
+		margin: 30rpx 20rpx 30rpx 0;
+}
+.make_huose{
+		width: 470rpx;
+		margin-top: 26rpx;
+}
+.huous_hao{
+		font-size: 28rpx;
+		color: #333333;
+		line-height: 46rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+}
+.huous_hao text:last-child{
+		display: block;
+		width: 320rpx;
+		margin-left: 30rpx;
+		overflow:hidden; /*超出的文本隐藏 */
+		text-overflow:ellipsis; /*溢出用省略号显示 */
+		white-space:nowrap; /*溢出不换行 */
+}
+.huous_title{
+		color: #485AEA;
+}
+.oreder_title{
+		margin: 0 20rpx;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-justify-content: space-around;
+		        justify-content: space-around;
+}
+.oreder_title view{
+		width: 150rpx;
+		height: 60rpx;
+		text-align: center;
+		line-height: 60rpx;
+		color: #333333;
+		border: 2rpx solid #CCCCCC;
+		font-size: 28rpx;
+		-webkit-border-radius: 30rpx;
+		        border-radius: 30rpx;
+		margin: 30rpx 0;
+}
+.order_comm{
+		border-bottom: none !important;
+		padding-bottom: 30rpx;
+}
+.order_coomm{
+		color: #F03232 !important;
+}
+image{
+		width: 100%;
+		height: 100%;
+		-webkit-border-radius: 20rpx;
+		        border-radius: 20rpx;
+}
+
